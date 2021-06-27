@@ -115,7 +115,7 @@ void Application::resetNode(Node& node) {
 	node.f_cost		= -1;
 	node.g_cost		= -1;
 	node.h_cost		= -1;
-	node.walkable	= true;
+	node.walkable		= true;
 	node.path		= false;
 	node.parent		= nullptr;
 

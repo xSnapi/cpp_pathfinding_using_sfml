@@ -1,4 +1,4 @@
-# C++ Pathfinding implementation using sfml
+# C++ Pathfinding implementation using SFML
 
 Thanks for checking out my pathfinding implementation
 
@@ -11,4 +11,4 @@ Thanks for checking out my pathfinding implementation
 - holding A and left click places start node
 - holding D and left click places finish node
 
-I'm just a beginner so any advices are appreciated
+I'm just a noob here so any advices are appreciated c:

@@ -2,6 +2,8 @@
 
 Thanks for checking out my pathfinding implementation
 
+Download: https://github.com/xSnapi/cpp_pathfinding_using_sfml/releases/tag/v1.0
+
 ![pathfinding](https://raw.githubusercontent.com/xSnapi/cpp_pathfinding_using_sfml/main/Images/pathfinding.gif)
 
 ## How to use

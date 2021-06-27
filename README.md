@@ -1,7 +1,7 @@
 # C++ Pathfinding implementation using sfml
 
 Thanks for checking out my pathfinding implementation
-[![sus]https://raw.githubusercontent.com/xSnapi/cpp_pathfinding_using_sfml/main/Images/pathfinding.gif]
+[https://raw.githubusercontent.com/xSnapi/cpp_pathfinding_using_sfml/main/Images/pathfinding.gif]
 
 ## How to use
 

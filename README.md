@@ -14,4 +14,4 @@ Download: https://github.com/xSnapi/cpp_pathfinding_using_sfml/releases/tag/v1.0
 - holding D and left click places finish node
 
 I'm just a noob here so any advices are appreciated c:
-Also thanks to Sebastian Lague this repo helped me a lot to create better version of my code https://github.com/SebLague/Pathfinding
+

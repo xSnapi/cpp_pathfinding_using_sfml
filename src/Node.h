@@ -12,7 +12,7 @@ struct Node
 		unsigned x, y;
 
 		bool walkable	= true;
-		bool path		= false;
+		bool path	= false;
 
 		int f_cost = -1; // G + H
 		int g_cost = -1; // Distance from starting node

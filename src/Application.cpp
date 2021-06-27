@@ -252,7 +252,7 @@ void Application::initWindow() {
 	this->video_mode.height = WINDOW_HEIGHT;
 
 	this->window.create(this->video_mode, "Pathfinding 5", sf::Style::Close, context_settings);
-	this->window.setFramerateLimit(240);
+	//this->window.setFramerateLimit(240);
 }
 
 Application::Application() {
